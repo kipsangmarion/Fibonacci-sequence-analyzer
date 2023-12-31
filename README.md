@@ -38,4 +38,4 @@ Adjust parameters like `terms` or `limit` directly in the code.
 
 ## Contributing
 
-If you'd like to contribute to the project, please fork the repository and submit a pull request. Issues and feature requests are welcome on the [GitHub Issues](https://github.com/your-username/fibonacci-system-analyzer/issues) page.
+If you'd like to contribute to the project, please fork the repository and submit a pull request. Issues and feature requests are welcome on the [GitHub Issues](https://github.com/kipsangmarion/fibonacci-sequence-analyzer/issues) page.
